@@ -28,9 +28,10 @@
   the workflow documentation commit.
 - Useful output: Work links are required later in Part 5,
   but not for this commit.
-- Decision: Revised the original plan to omit work links for now.
-- Reason: Keep this commit focused on the GitHub concepts
-  and feature branch name.
+- Decision: Rejected the suggestion to include work links in the initial
+  workflow-notes commit and revised the plan to add them later.
+- Reason: This commit only required GitHub concept explanations and the
+  feature branch name. Work links would be added later for Part 5.
 - Related GitHub URL:
   https://github.com/tylerguest/swe325_525-github-ai-practice/commit/df57a72
 
