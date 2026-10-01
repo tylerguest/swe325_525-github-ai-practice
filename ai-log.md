@@ -37,3 +37,25 @@
 
 ## Related Issue
 https://github.com/tylerguest/swe325_525-github-ai-practice/issues/1
+
+## Reflection
+
+### 1. Which GitHub action or object was most useful to you, and why?
+The pull request was most useful because it brought the changes together and
+provided a place to review them before merging.
+
+### 2. Which AI suggestion did you accept, and what made it useful?
+I accepted organizing the README into purpose, scope, and student identification
+sections because it clearly covered the assignment requirements.
+
+### 3. Which AI suggestion did you revise or reject, and why?
+I rejected including work links in the initial workflow-notes commit. I wanted
+that commit focused on GitHub concepts and planned to add the links in Part 5.
+
+### 4. What did you verify yourself instead of trusting the AI?
+I compared the suggested documentation with the assignment requirements and
+checked the files and commit history on GitHub.
+
+### 5. What would you change in your GitHub workflow next time?
+I would create and publish the initial `main` commit before creating the feature
+branch, and record workflow links as each step is completed.
